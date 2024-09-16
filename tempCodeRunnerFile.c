@@ -1,0 +1,3 @@
+delete();
+    printf("\n");
+    display();
